@@ -1,0 +1,27 @@
+# Compiled Python files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Local development files
+.idea/
+.ipynb_checkpoints
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# OS or editor generated files
+.DS_Store
+Thumbs.db
+
+# Logs and database files
+*.sql
+*.sqlite
+*.log
+# Compiled files
+*.pyc
+
+orand_car_2014
+runs
